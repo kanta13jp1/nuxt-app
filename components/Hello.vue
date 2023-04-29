@@ -110,6 +110,8 @@
               fill="currentColor"
             /></svg
         ></a>
+        <NuxtLink to="/fun">Fun page</NuxtLink>
+        <NuxtLink to="/more-fun">More Fun page</NuxtLink>
       </div>
     </div>
   </div>
